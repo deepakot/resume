@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/resume/static/media/deepak.d0b71da4.png"
   },
   {
-    "revision": "19b2a9086b1e9c2eeafebec09c1460ce",
+    "revision": "ec927f0e05d417ce79cfb2ba501be666",
     "url": "/resume/index.html"
   }
 ];
