@@ -1,7 +1,7 @@
 {
 	"name": "resume",
 	"version": "0.1.0",
-	"homepage": "https://github.com/resume",
+	"homepage": "https://deepakot.github.io/resume",
 	"private": true,
 	"dependencies": {
 		"@types/jest": "^24.0.11",
@@ -9,7 +9,6 @@
 		"@types/react": "^16.8.8",
 		"@types/react-dom": "^16.8.2",
 		"eslint-utils": "^2.0.0",
-		"gh-pages": "^2.0.1",
 		"prettier": "^1.16.4",
 		"react": "^16.8.4",
 		"react-dom": "^16.8.4",
@@ -19,7 +18,7 @@
 	"scripts": {
 		"lint": "tslint -c tslint.json src/**/*.{ts,tsx} --fix --format verbose",
 		"start": "react-scripts start --port 3001",
-		"predeploy": "yarn run build",
+		"predeploy": "npm run build",
 		"deploy": "gh-pages -d build",
 		"build": "react-scripts build",
 		"test": "react-scripts test",
@@ -34,5 +33,7 @@
 		"not ie <= 11",
 		"not op_mini all"
 	],
-	"devDependencies": {}
+	"devDependencies": {
+		"gh-pages": "^2.2.0"
+	}
 }
