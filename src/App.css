@@ -27,7 +27,7 @@ li {
 .section-main {
 	display: flex;
 	height: 30px;
-	margin-bottom: 25px;
+	margin-bottom: 10px;
 }
 
 .section-header {
@@ -52,7 +52,7 @@ li {
 	flex-direction: column;
 	align-items: center; */
 	flex: 1;
-	padding: 150px 40px 40px 40px;
+	padding: 60px 20px 40px 20px;
 	background: #3a393e;
 }
 
@@ -64,13 +64,13 @@ li {
 .info .about {
 	/* display: flex;
 	flex-wrap: wrap; */
-	margin-top: 120px;
+	margin-top: 40px;
 	color: #bbb;
 }
 
 .info .contact {
 	color: #bbb;
-	margin-top: 120px;
+	margin-top: 40px;
 }
 
 .contact-item span:first-child {
@@ -82,7 +82,7 @@ li {
 	flex: 3;
 	padding: 10px;
 	background: #eae8eb;
-	padding: 110px 50px 100px 30px;
+	padding: 30px 20px 30px 20px;
 }
 
 .name {
@@ -165,10 +165,6 @@ li {
 	width: 26px;
 }
 
-.division {
-	margin-bottom: 40px;
-}
-
 .division-header li {
 	margin-bottom: 5px;
 	line-height: 1.1em;
@@ -212,7 +208,6 @@ li {
 	flex-wrap: wrap;
 	flex-direction: column;
 	padding: 0;
-	margin-bottom: 40px;
 }
 
 .work-skills li {
@@ -220,8 +215,7 @@ li {
 	list-style-type: none;
 	display: flex;
 	align-items: center;
-	min-width: 190px;
-	margin-bottom: 8px;
+	min-width: 120px;
 }
 
 .work-skills li::before {
@@ -286,14 +280,14 @@ li {
 @media screen and (min-width:1024px) {
 	.work-skills ul 
 	{
-		max-height: 160px;
+		max-height: 100px;
 	}
 }
 
 @media print {
 	.work-skills ul 
 	{
-		max-height: 160px;
+		max-height: 100px;
 		flex-direction: column;
 	}
  }

@@ -13,7 +13,7 @@ const JobDescription = ({
 	jobDescription: string[] | string;
 }) =>
 	Array.isArray(jobDescription) ? (
-		<ul>
+		<ul style={{ 'paddingInlineStart': '20px', 'marginTop': '10px' }}>
 			{jobDescription.map((line, i) => (
 				<li key={i}>{line}</li>
 			))}

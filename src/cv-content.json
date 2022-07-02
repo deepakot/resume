@@ -44,11 +44,8 @@
 			"company": "Hyderabad, IN",
 			"jobDescription": [
 				"Developed Digitised Energy CMMS android & ios apps from scratch using React Native.",
-				"Maintained images/pdf uploads at firebase storage and realtime chat message at firestore.",
 				"Single handedly created 3 TV apps and a website for Hit.Movie which used the Ant Design UI framework.",
-				"Integrated the players with custom controls on all platforms to play the DRM encrypted movies.",
-				"Used Razorpay & Stripe as payment modules for ticket purchase.",
-				"Created various Bridging modules for Native to React Native interation."
+				"Integrated the players with custom controls on all platforms to play the DRM encrypted movies."
 			]
 		},
 		{
@@ -57,9 +54,9 @@
 			"position": "PEOPLEDOCK",
 			"company": "Hyderabad, IN",
 			"jobDescription": [
-				"Created and deployed 2 apps to Play & Apple store from scratch using React Native - AskDesis (The Neighbourhood App), VOTEism (The Voting App).",
+				"Created and deployed 2 apps from scratch using React Native - AskDesis (The Neighbourhood App), VOTEism (The Voting App).",
 				"Optimized the app for heavy loading of posts/images and multi images support.",
-				"Used Public-Key Cryptography for encryption & SHA256 fro hashing."
+				"Used Public-Key Cryptography for encryption & SHA256 for hashing."
 			]
 		},
 		{
@@ -95,13 +92,13 @@
 		{
 			"startYear": "2008",
 			"endYear": "2009",
-			"position": "Class XII – School of Excellence, MP State Board",
+			"position": "Class XII – School of Excellence, MPBSE",
 			"company": "96.6%"
 		},
 		{
 			"startYear": "2006",
 			"endYear": "2007",
-			"position": "Class X – School of Excellence, MP State Board",
+			"position": "Class X – School of Excellence, MPBSE",
 			"company": "89.2%"
 		}
 	]
