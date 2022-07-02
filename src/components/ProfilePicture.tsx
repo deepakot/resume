@@ -9,7 +9,7 @@ const ProfilePicture: FunctionComponent<OwnProps> = ({ imgUrl }) => {
 		<div className={'info-picture'}>
 			<div className={'frame'}>
 				<div className={'photo-wrapper'}>
-					<img className="photo" src={imgUrl} />
+					<img className="photo" src={require('../deepak.png')} style={{ marginLeft: 10, marginTop: -5 }} />
 				</div>
 			</div>
 		</div>

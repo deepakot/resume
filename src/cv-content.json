@@ -1,100 +1,108 @@
 {
-	"fullName": "Nour Sabouny",
-	"title": "Full Stack developer",
-	"about": "I have passion for computers in general and for writing software in particular, be it Web, Mobile, or Desktop application. I don't stop learning and always seeking new challenges.",
-	"hobbies": "I love video games, photographing, reading books, watching SciFi movies, and DIY projects.",
+	"fullName": "Deepak Sharma",
+	"title": "Senior React Native Developer",
+	"about": "With more than 7 years of experience in mobile development, I’ve a proven track record of creating and deploying various mobile applications single handedly from scratch.",
+	"hobbies": "Hands-on experience in using Firebase services like Databases, Storage, Crashlytics, Authentication etc. Skilled in React Native, Javascript, Redux, React Hooks, Bridging native modules for use inside React Native.",
 	"imageUrl": "https://thispersondoesnotexist.com/image",
 	"contactItems": [
 		{
 			"label": "Phone",
-			"value": "+999 999 999 9999"
-		},
-		{
-			"label": "Website",
-			"value": "http://nour-s.com",
-			"href": "http://nour-s.com"
+			"value": "+91 9818761023"
 		},
 		{
 			"label": "Email",
-			"value": "name@domain.com",
-			"href": "mailto:name@domain.com"
+			"value": "dsharma579@gmail.com",
+			"href": "mailto:dsharma579@gmail.com"
+		},
+		{
+			"label": "LinkedIn",
+			"value": "deepaksharma579",
+			"href": "https://www.linkedin.com/in/deepaksharma579/"
 		}
 	],
 	"skills": [
-		"C#",
-		"ASP.NET MVC",
-		"ASP.NET CORE",
-		"Windows Forms (WPF)",
-		"Entity Framework",
-		"SQL Server/MY SQL",
-		"HTML5 / CSS3",
+		"React Native",
 		"JavaScript / TypeScript",
-		"React / React Native",
+		"HTML",
+		"CSS",
 		"Redux",
-		"RESTful APIs",
-		"Java"
+		"CodePush",
+		"Firebase",
+		"Github / Gitlab",
+		"Java",
+		"Objective C",
+		"Android",
+		"iOS Development",
+		"Web Development",
+		"Ant Design Framework"
 	],
 	"experiences": [
 		{
-			"startYear": "2017",
+			"startYear": "Feb 2021",
 			"endYear": "Present",
-			"position": "Full Stack developer",
-			"company": "TigerSpike",
+			"position": "Digitised Energy",
+			"company": "Hyderabad, IN",
 			"jobDescription": [
-				"Support and contribute to software development and design processes.",
-				"Follow defined development best practices, including wiki contributions,code commenting and documentation, source control.",
-				"Execute and review test plans (where necessary).",
-				"Author and critique software designs and architectures.",
-				"Critique application wireframes, use cases, user journeys, and designs.",
-				"Identify project development tasks. Mentor junior colleagues"
+				"Developed Digitised Energy CMMS android & ios apps from scratch using React Native.",
+				"Maintained images/pdf uploads at firebase storage and realtime chat message at firestore.",
+				"Single handedly created 3 TV apps and a website for Hit.Movie which used the Ant Design UI framework.",
+				"Integrated the players with custom controls on all platforms to play the DRM encrypted movies.",
+				"Used Razorpay & Stripe as payment modules for ticket purchase.",
+				"Created various Bridging modules for Native to React Native interation."
 			]
 		},
 		{
-			"startYear": "2016",
-			"endYear": "2017",
-			"position": "Senior Software Developer",
-			"company": "Company Name",
+			"startYear": "Oct 2017",
+			"endYear": "Jan 2021",
+			"position": "PEOPLEDOCK",
+			"company": "Hyderabad, IN",
 			"jobDescription": [
-				"Translated application storyboards and use cases into functional applications.",
-				"Designed, built, and maintained efficient, reusable, and reliable Java code.",
-				"Ensured the best possible performance, and quality of the applications.",
-				"Identified bottlenecks and bugs, and devise solutions to these problems.",
-				"Helped maintain code quality, organization, and automatization."
+				"Created and deployed 2 apps to Play & Apple store from scratch using React Native - AskDesis (The Neighbourhood App), VOTEism (The Voting App).",
+				"Optimized the app for heavy loading of posts/images and multi images support.",
+				"Used Public-Key Cryptography for encryption & SHA256 fro hashing."
 			]
 		},
 		{
-			"startYear": "2013",
-			"endYear": "2016",
-			"position": "Senior Software Developer / Team Lead",
-			"company": "Company Name",
+			"startYear": "Jun 2016",
+			"endYear": "Sep 2017",
+			"position": "LifeInControl (Curo Healthcare Inc)",
+			"company": "Hyderabad, IN",
 			"jobDescription": [
-				"Crafted, designed, communicated and defined the software architecture that solves the problem at hand.",
-				"Gave input as needed to issues like tools and environment selection.",
-				"Researched and recommended software tools to use."
+				"Joined as android developer and worked on the architecture change of the app.",
+				"Implemented a chatBot for users to coach interaction.",
+				"Worked on several logic and UI features like Calendar Streak, Graph based loggings, History timeline."
 			]
 		},
 		{
-			"startYear": "2011",
-			"endYear": "2013",
-			"position": "Senior Software Developer / Team Lead",
-			"company": "Company Name",
+			"startYear": "Jul 2015",
+			"endYear": "May 2016",
+			"position": "OnlineTyari (NDLS Pvt. Ltd.)",
+			"company": "Gurgaon, IN",
 			"jobDescription": [
-				"Lead a team of developers, supervise the progress of tasks using TFS, and Scrum.",
-				"Designed the system architecture with the best standards",
-				"Designed database using SQL Server, managed many projects at the company."
+				"Joined a two member team as an Android developer.",
+				"Integrated PDF reader & features like Text to speech, Night Mode etc.",
+				"Implemented UI & logics for AITS ranking, score, analysis & solutions."
 			]
 		}
 	],
 	"certificates": [
 		{
-			"startYear": "2019",
-			"position": "React Nanodegree Certification",
-			"company": "Udacity"
+			"startYear": "2010",
+			"endYear": "2015",
+			"position": "B.Tech + M.Tech in IT, IIIT Gwalior",
+			"company": "CGPA: 7.04"
 		},
 		{
 			"startYear": "2008",
-			"position": "Microsoft Certified Solutions Developer (MCSD)",
-			"company": "Microsoft"
+			"endYear": "2009",
+			"position": "Class XII – School of Excellence, MP State Board",
+			"company": "96.6%"
+		},
+		{
+			"startYear": "2006",
+			"endYear": "2007",
+			"position": "Class X – School of Excellence, MP State Board",
+			"company": "89.2%"
 		}
 	]
 }

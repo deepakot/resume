@@ -26,21 +26,21 @@ const DetailsSection: FunctionComponent<OwnProps> = ({
 	detailsData: { experiences, skills, certificates },
 }) => (
 	<div className={'details'}>
-		<Section title="Experiences">
+		<Section title="Work Experience">
 			{experiences.map((exp, i) => (
 				<Division key={i} {...exp}>
 					<JobDescription jobDescription={exp.jobDescription} />
 				</Division>
 			))}
 		</Section>
-		<Section title="Workskills" extraClassName="work-skills">
+		<Section title="Skill Set" extraClassName="work-skills">
 			<ul>
 				{skills.map((s, i) => (
 					<li key={i}>{s}</li>
 				))}
 			</ul>
 		</Section>
-		<Section title="Certificates">
+		<Section title="Education">
 			{certificates.map((cert, i) => (
 				<Division key={i} {...cert} />
 			))}
