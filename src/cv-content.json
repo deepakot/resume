@@ -42,10 +42,16 @@
 			"endYear": "Present",
 			"position": "Digitised Energy",
 			"company": "Hyderabad, IN",
+			"platform1": "https://play.google.com/store/apps/details?id=digitised.energy",
+			"platform2": "https://apps.apple.com/us/app/digitised-cmms/id1616512964",
+			"platform5": "https://hit.movie/",
+			"platform6": "https://play.google.com/store/apps/details?id=com.hit.movie",
+			"platform7": "https://apple.co/3ev32sJ",
+			"platform8": "https://www.amazon.com/Hit-Movie-INC/dp/B094JYVR4J",			
 			"jobDescription": [
 				"Developed Digitised Energy CMMS android & ios apps from scratch using React Native.",
 				"Single handedly created 3 TV apps and a website for Hit.Movie which used the Ant Design UI framework.",
-				"Integrated the players with custom controls on all platforms to play the DRM encrypted movies."
+				"Integrated the players with custom controls on web & all tv platforms to play the DRM encrypted content."
 			]
 		},
 		{
@@ -53,32 +59,33 @@
 			"endYear": "Jan 2021",
 			"position": "PEOPLEDOCK",
 			"company": "Hyderabad, IN",
+			"platform1": "https://play.google.com/store/apps/details?id=com.askdesis",
+			"platform2": "https://apps.apple.com/us/app/askdesis/id1465558192",
+			"platform3": "https://play.google.com/store/apps/details?id=com.Voteism",
+			"platform4": "https://apps.apple.com/us/app/voteism/id1510997863",
 			"jobDescription": [
 				"Created and deployed 2 apps from scratch using React Native - AskDesis (The Neighbourhood App), VOTEism (The Voting App).",
-				"Optimized the app for heavy loading of posts/images and multi images support.",
-				"Used Public-Key Cryptography for encryption & SHA256 for hashing."
+				"Fine tuned large-scale asynchronous content loading and support for multi image support.",
+				"Gained experience implementing asymmetric cryptography for enhanced content security for voting."
 			]
 		},
 		{
 			"startYear": "Jun 2016",
 			"endYear": "Sep 2017",
-			"position": "LifeInControl (Curo Healthcare Inc)",
+			"position": "Curo Healthcare",
 			"company": "Hyderabad, IN",
 			"jobDescription": [
-				"Joined as android developer and worked on the architecture change of the app.",
-				"Implemented a chatBot for users to coach interaction.",
-				"Worked on several logic and UI features like Calendar Streak, Graph based loggings, History timeline."
+				"Revamped app architecture, implemented a chatbot, added features like Calendar Streak, Graphs and History."
 			]
 		},
 		{
 			"startYear": "Jul 2015",
 			"endYear": "May 2016",
-			"position": "OnlineTyari (NDLS Pvt. Ltd.)",
+			"position": "OnlineTyari",
 			"company": "Gurgaon, IN",
+			"platform1": "https://play.google.com/store/apps/details?id=com.hinkhoj.questionbank",
 			"jobDescription": [
-				"Joined a two member team as an Android developer.",
-				"Integrated PDF reader & features like Text to speech, Night Mode etc.",
-				"Implemented UI & logics for AITS ranking, score, analysis & solutions."
+				"Implemented an encrypted in-app PDF reader and features like Text-to-speech, Night mode, All-India Test Series ranking and Score analysis."
 			]
 		}
 	],

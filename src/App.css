@@ -27,7 +27,7 @@ li {
 .section-main {
 	display: flex;
 	height: 30px;
-	margin-bottom: 10px;
+	margin-bottom: 16px;
 }
 
 .section-header {
@@ -64,13 +64,13 @@ li {
 .info .about {
 	/* display: flex;
 	flex-wrap: wrap; */
-	margin-top: 40px;
+	margin-top: 50px;
 	color: #bbb;
 }
 
 .info .contact {
 	color: #bbb;
-	margin-top: 40px;
+	margin-top: 50px;
 }
 
 .contact-item span:first-child {
@@ -88,6 +88,7 @@ li {
 .name {
 	text-align: center;
 	text-transform: uppercase;
+	margin-top: 8px;
 	margin-bottom: 5px;
 	color: #eae8eb;
 }
@@ -174,6 +175,7 @@ li {
 	display: flex;
 	flex-wrap: wrap;
 	align-items: center;
+	margin-bottom: 14px;
 }
 
 .division-main-date {
@@ -186,6 +188,7 @@ li {
 .division-main-position {
 	display: flex;
 	flex-direction: column;
+	flex: 1
 }
 
 .division-main-position span:first-child {
@@ -194,6 +197,12 @@ li {
 }
 
 .division-main-position span:not(first-child) {
+	font-size: 0.89em;
+}
+
+.division-sub-position {
+	display: flex;
+	flex-direction: column;
 	font-size: 0.89em;
 }
 
