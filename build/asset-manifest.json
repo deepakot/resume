@@ -1,14 +1,15 @@
 {
-  "main.css": "/resume/static/css/main.ae7de559.chunk.css",
-  "main.js": "/resume/static/js/main.d96d6853.chunk.js",
-  "main.js.map": "/resume/static/js/main.d96d6853.chunk.js.map",
+  "main.css": "/resume/static/css/main.925e15e9.chunk.css",
+  "main.js": "/resume/static/js/main.4646faa8.chunk.js",
+  "main.js.map": "/resume/static/js/main.4646faa8.chunk.js.map",
   "runtime~main.js": "/resume/static/js/runtime~main.30522d0f.js",
   "runtime~main.js.map": "/resume/static/js/runtime~main.30522d0f.js.map",
-  "static/js/2.2bd585a4.chunk.js": "/resume/static/js/2.2bd585a4.chunk.js",
-  "static/js/2.2bd585a4.chunk.js.map": "/resume/static/js/2.2bd585a4.chunk.js.map",
+  "static/js/2.053caa08.chunk.js": "/resume/static/js/2.053caa08.chunk.js",
+  "static/js/2.053caa08.chunk.js.map": "/resume/static/js/2.053caa08.chunk.js.map",
   "index.html": "/resume/index.html",
-  "precache-manifest.18285b908fc0c616d021fba154c778af.js": "/resume/precache-manifest.18285b908fc0c616d021fba154c778af.js",
+  "precache-manifest.3701ff70448c479dd359305faabbb6f9.js": "/resume/precache-manifest.3701ff70448c479dd359305faabbb6f9.js",
   "service-worker.js": "/resume/service-worker.js",
-  "static/css/main.ae7de559.chunk.css.map": "/resume/static/css/main.ae7de559.chunk.css.map",
-  "static/media/deepak.png": "/resume/static/media/deepak.d0b71da4.png"
+  "static/css/main.925e15e9.chunk.css.map": "/resume/static/css/main.925e15e9.chunk.css.map",
+  "static/media/androidtv2.png": "/resume/static/media/androidtv2.a44d2e3e.png",
+  "static/media/deepak.png": "/resume/static/media/deepak.30b1e687.png"
 }
