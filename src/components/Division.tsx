@@ -13,6 +13,11 @@ interface OwnProps {
 	platform6?: string;
 	platform7?: string;
 	platform8?: string;
+	logo1?: string;
+	logo2?: string;
+	site1?: string;
+	site2?: string;
+
 }
 
 const Division: FunctionComponent<OwnProps> = props => {
@@ -27,15 +32,24 @@ const Division: FunctionComponent<OwnProps> = props => {
 					<span>{props.company}</span>
 				</div>
 				<div className={'division-sub-position'} style={{ display: props.platform1 ? 'flex' : 'none', alignItems: 'end' }}>
-					<span>
+					<span style={{ alignItems: 'center' }}>
+						{<a target={'_blank'} href={props.site1} style={{ display: props.logo1 ? 'initial' : 'none' }}>
+							<img src={require('../images/'+(props.logo1 ? props.logo1 : 'delogo')+'.png')}
+							style={{ width: 24, marginRight: 20 }} />
+						</a>}
 						{<a target={'_blank'} href={props.platform1}>
 							<img src={require('../images/android.png')} style={{ width: 16 }} />
 						</a>}
-						{<a target={'_blank'} href={props.platform2} style={{ display: props.platform2 ? 'initial' : 'none', paddingLeft: 10 }}>
+						{<a target={'_blank'} href={props.platform2} 
+						style={{ display: props.platform2 ? 'initial' : 'none', paddingLeft: 10 }}>
 						<img src={require('../images/ios.png')} style={{ width: 16 }} />
 						</a>}
 					</span>
-					<span style={{ display: props.platform3 ? 'flex' : 'none' }}>
+					<span style={{ display: props.platform3 ? 'flex' : 'none', alignItems: 'center' }}>
+						{<a target={'_blank'} href={props.site2}>
+							<img src={require('../images/'+(props.logo2 ? props.logo2 : 'delogo')+'.png')}
+							style={{ width: 24, marginRight: 20 }} />
+						</a>}
 						{<a target={'_blank'} href={props.platform3}>
 							<img src={require('../images/android.png')} style={{ width: 16 }} />
 						</a>}
@@ -45,7 +59,7 @@ const Division: FunctionComponent<OwnProps> = props => {
 					</span>
 					<span style={{ display: props.platform5 ? 'flex' : 'none' }}>
 						{<a target={'_blank'} href={props.platform5}>
-							<img src={require('../images/web.png')} style={{ width: 16 }} />
+							<img src={require('../images/hitmovie.png')} style={{ width: 16 }} />
 						</a>}
 						{<a target={'_blank'} href={props.platform6} style={{ marginLeft: 10 }}>
 						<img src={require('../images/androidtv2.png')} style={{ width: 52 }} />

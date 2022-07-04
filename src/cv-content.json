@@ -48,6 +48,8 @@
 			"platform6": "https://play.google.com/store/apps/details?id=com.hit.movie",
 			"platform7": "https://apple.co/3ev32sJ",
 			"platform8": "https://www.amazon.com/Hit-Movie-INC/dp/B094JYVR4J",			
+			"logo1": "delogo",
+			"site1": "https://www.digitised.energy/",
 			"jobDescription": [
 				"Developed Digitised Energy CMMS android & ios apps from scratch using React Native.",
 				"Single handedly created 3 TV apps and a website for Hit.Movie which used the Ant Design UI framework.",
@@ -63,6 +65,10 @@
 			"platform2": "https://apps.apple.com/us/app/askdesis/id1465558192",
 			"platform3": "https://play.google.com/store/apps/details?id=com.Voteism",
 			"platform4": "https://apps.apple.com/us/app/voteism/id1510997863",
+			"logo1": "ADLogo3",
+			"site1": "https://askdesis.com/",
+			"logo2": "voteism",
+			"site2": "https://voteism.org/",
 			"jobDescription": [
 				"Created and deployed 2 apps from scratch using React Native - AskDesis (The Neighbourhood App), VOTEism (The Voting App).",
 				"Fine tuned large-scale asynchronous content loading and support for multi image support.",
